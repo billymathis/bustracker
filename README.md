@@ -15,4 +15,4 @@ Future improvements for the Real Time Bus Tracker project could include:
 - Implementing a search feature to allow users to find specific bus routes or stops.
 
 ## License Information
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
